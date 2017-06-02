@@ -1,10 +1,10 @@
 Count Down View
 ====
-# introduce
-####a cool custom count down view<br>
+# 1.introduce
+#### a cool custom count down view<br>
 ![null](https://github.com/WTCool666/countDownView/blob/master/video.gif)<br>
 
-# Usage 
+# 2.Usage 
 #### first step
 ```Objective-C
 #import "CountDownView.h"
@@ -41,3 +41,7 @@ add countDownView into redView
 */
 [self.redView addSubview:countDownView];
 ```
+# 3.Contact me
+E-mail:1262135886@qq.com<br>
+CSDN blog address:http://my.csdn.net/?ref=toolbar
+ 
