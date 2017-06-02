@@ -2,4 +2,4 @@
 ====
 # introduce
 a cool custom count down view
-![null](https://github.com/WTCool666/countDownView/blob/master/录屏.mov)
+![null](https://github.com/WTCool666/countDownView/blob/master/video.gif)
