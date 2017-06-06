@@ -16,6 +16,7 @@
 }
 -(instancetype)initWithFrame:(CGRect)frame{
     self.currentMinute=-1;
+    self.layer.backgroundColor=[UIColor clearColor].CGColor;
     return [super initWithFrame:frame];
 }
 
@@ -70,7 +71,7 @@
     if (self.currentMinute==-1||self.maxMinute<=0) {
         return;
     }
-    for (int i=0; i<=self.currentMinute; i++) {
+    for (int i=1; i<=self.currentMinute; i++) {
         UIBezierPath *path = [UIBezierPath bezierPath];
         CGFloat outsideRadius = selfW/2- selfW/14; // 刻度 外点半径
         CGFloat insideRadius = selfW/2-selfW/8 ; // 刻度 内点半径
