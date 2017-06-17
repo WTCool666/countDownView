@@ -43,5 +43,5 @@ add countDownView into redView
 ```
 # 3.Contact me
 E-mail:1262135886@qq.com<br>
-CSDN blog address:http://my.csdn.net/?ref=toolbar
+CSDN blog address:http://blog.csdn.net/qq_33750826
  
